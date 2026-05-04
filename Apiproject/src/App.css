@@ -1,0 +1,31 @@
+.user-list{
+    display: flex;
+    list-style: none;
+    background-color:pink ;
+    border: 1px solid wheat;
+    justify-content: space-around;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+.user-list-head{
+    font-size: 20px;
+    font-weight: 800;
+}
+.user-list-head .li{
+    margin-left: -120px;
+}
+.list{
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+    border-radius: 15px;
+    list-style: none;
+    font-size: 20px ;
+    background-color: pink;
+    
+    
+}
