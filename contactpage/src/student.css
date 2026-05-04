@@ -1,0 +1,27 @@
+.app{
+    text-align: center;
+}
+.header{
+    font-weight: 500;
+    font-size: large;
+    border: 2px solid blue;
+    color: white;
+    text-align: center;
+}
+.formHeader{
+    margin-left: 12px;
+}
+
+.add-contact{
+    font-size: initial;
+    font-weight: 500;
+    font-family: fantasy;
+    margin-left: 12px;
+}
+input{
+    margin-bottom: 5px;
+}
+.btn{
+    border-color: cadetblue;
+    color: red;
+}
